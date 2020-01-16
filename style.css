@@ -1,0 +1,35 @@
+body {
+    background: grey;
+}
+.header {
+    background-color: #bdbdbd;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.date{
+    display: inline-flex;
+    float: right;
+    margin-right: 10px;
+}
+
+.title{
+    display: inline-flex;
+    margin-left: 10px;
+}
+
+.cardTitle{
+    background-color: white;
+}
+.cardContent{
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 450px;
+}
+
+.cardContainer{
+    width: 60%;
+    margin: 0 auto;
+}
